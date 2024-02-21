@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm passionate about software development with a strong foundation in Backend Development, Mobile Development, and Frontend Development. My experience encompasses a wide range of programming languages and technologies, including:
+I'm passionate about software development with a strong foundation in Backend Development. My experience encompasses a wide range of programming languages and technologies, including:
 
 ### Languages
 
