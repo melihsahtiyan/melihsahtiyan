@@ -1,6 +1,4 @@
 ### HELLO THERE I'm Melih Sahtiyan 
-![Github stats](https://github-readme-stats.vercel.app/api?username=melihsahtiyan&theme=radical&show_icons=true&count_private=true) 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melihsahtiyan&layout=compact&theme=dark)
 
 
@@ -18,6 +16,7 @@ I'm passionate about software development with a strong foundation in Backend De
 
 ![.NET badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=black) 
 ![Node.Js](https://img.shields.io/badge/Node.Js-F7DF1E?style=for-the-badge&logo=Node.Js)
+![Nest.Js](https://img.shields.io/badge/Nest.Js-F7DF1E?style=for-the-badge&logo=Nest.Js)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
